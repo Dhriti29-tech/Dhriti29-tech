@@ -1,6 +1,6 @@
 <img src="https://media3.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="Masterhead" width="100%">
 <h1 align="center">Hi 👋, I'm Dhriti Tandon</h1>
-<h3 align="center">🚀A passionate frontend developer and a  B-Tech student</h3>
+<h3 align="center">🚀A passionate Fullstack developer and a  B-Tech student</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
